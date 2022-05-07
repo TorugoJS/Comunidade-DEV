@@ -9,5 +9,6 @@
 
 https://torugojs.github.io/Comunidade-DEV/
 
-![image](https://user-images.githubusercontent.com/96630079/167274475-cb00e0d0-7afb-4ded-9495-4704a1b7695c.png)
+![image](https://user-images.githubusercontent.com/96630079/167274506-4f6732e7-2d22-4f5e-82d8-1849d8bebe61.png)
+
 
